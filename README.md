@@ -20,6 +20,14 @@
 ----
 
 
+----
+### Profile Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amchuz)](https://github.com/ryo-ma/github-profile-trophy)
+
+----
+
+
 
 <!-- 分割线 -->
 ****
