@@ -2,7 +2,7 @@
 <!-- 分割线 -->
 ****
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahCatlikefish&theme=prussian&show_icons=true) -->
-![](https://github-readme-stats.vercel.app/api?username=yeahCatlikefish&theme=prussian)
+![我的 GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahCatlikefish&theme=prussian)
 
 
 <!--
