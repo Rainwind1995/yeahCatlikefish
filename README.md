@@ -22,6 +22,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yeahCatlikefish)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yeahCatlikefish&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ----
 
 
