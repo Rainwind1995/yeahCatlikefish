@@ -27,7 +27,7 @@
 
 | <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/yeahCatlikefish/Amchuz/blob/master/blog/image/music.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100" > | 
 | :---: | :---: | :---: |
-| <b>Coding</b> | <b>K-pop</b> | <b>Anime</b> |
+| <b>Coding</b> | <b>Music</b> | <b>Anime</b> |
 
 
 
