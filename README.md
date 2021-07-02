@@ -23,6 +23,12 @@
 
 ----
 
+**What I love**
+
+| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/kpop.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100"> | 
+| :---: | :---: | :---: |
+| <b>Coding</b> | <b>K-pop</b> | <b>Anime</b> |
+
 
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
