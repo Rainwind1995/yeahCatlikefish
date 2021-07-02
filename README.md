@@ -19,7 +19,7 @@
 <!-- 分割线 -->
 ****
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahCatlikefish&theme=prussian&show_icons=true) -->
-![](https://github-readme-stats.vercel.app/api?username=yeahCatlikefish&theme=prussian) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahCatlikefish)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=yeahCatlikefish&theme=prussian) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahCatlikefish&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
