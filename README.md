@@ -1,4 +1,4 @@
-### welcome to there 👋<img src="https://github.com/Amchuz/Amchuz/blob/master/hello.gif" width="120px">
+### Hello <img src="https://github.com/Amchuz/Amchuz/blob/master/hello.gif" width="120px">
 <hr>
 <!-- **yeahCatlikefish/yeahCatlikefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started: -->
