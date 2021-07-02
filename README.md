@@ -1,6 +1,7 @@
 ### welcome to there 👋
 
 ****
+<hr>
 
 <!--
 **yeahCatlikefish/yeahCatlikefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
