@@ -12,8 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-github-profile-views-counter
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 
 <!-- 分割线 -->
