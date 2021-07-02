@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=yeahCatlikefish&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
 ### Hello <img src="https://github.com/Amchuz/Amchuz/blob/master/hello.gif" width="120px">
 <hr>
 <!-- **yeahCatlikefish/yeahCatlikefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
